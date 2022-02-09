@@ -6,7 +6,7 @@ public class BirdQn4 {
 		String color;
 		int eyes;
 		int age;
-		//
+		
 		public BirdQn4 (String name, String color, int eyes, int age) {
 		this.name=name;
     	this.color=color;
